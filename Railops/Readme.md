@@ -76,3 +76,4 @@ A **WhatsApp-first bot interface** that connects passengers, staff, and vendors 
 
 - `README.md` – this file
 - `proposal.pdf` – the original proposal document (attached)
+- `Video` - preview visuals of my approach
